@@ -32,7 +32,7 @@ The cleaned text is converted into numerical vectors using **TF-IDF (Term Freque
 
 
 ### 3. Model Training
-I utilized a **Logistic Regression** classifier. This algorithm is highly effective for text classification tasks where the relationship between word frequencies and the target class is strong.
+This algorithm is highly effective for text classification tasks where the relationship between word frequencies and the target class is strong.
 
 ---
 
