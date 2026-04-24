@@ -53,9 +53,11 @@ The classification report shows near-perfect **Precision** and **Recall**, indic
 ## ☁️ Visualizing the Data
 Using **Word Clouds**, we can see the most influential terms:
 * **Real News:** Focused on government officials, international relations, and factual events.
-* **Fake News:** Features sensationalist keywords, "breaking" buzzwords, and politically charged emotional triggers.
 
 ![Real News Cloud](./output2.png)
+
+* **Fake News:** Features sensationalist keywords, "breaking" buzzwords, and politically charged emotional triggers.
+
 ![Fake News Cloud](./output.png)
 
 ---
